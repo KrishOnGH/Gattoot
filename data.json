@@ -1,0 +1,30 @@
+{
+  "categories": [
+    { "id": "history", "label": "History" },
+    { "id": "science", "label": "Science" },
+    { "id": "literature", "label": "Literature" },
+    { "id": "sports", "label": "Sports" }
+  ],
+  "questions": [
+    { "id": "history-100", "categoryId": "history", "value": 100, "prompt": "Who signed the Emancipation Proclamation in 1863?", "choices": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "Theodore Roosevelt"], "answerIndex": 0, "time": 20 },
+    { "id": "history-200", "categoryId": "history", "value": 200, "prompt": "Which empire built the Colosseum?", "choices": ["Roman Empire", "Mongol Empire", "Ottoman Empire", "British Empire"], "answerIndex": 0, "time": 20 },
+    { "id": "history-300", "categoryId": "history", "value": 300, "prompt": "The Boston Tea Party was a protest against taxes by which country?", "choices": ["France", "Spain", "Britain", "Germany"], "answerIndex": 2, "time": 20 },
+    { "id": "history-400", "categoryId": "history", "value": 400, "prompt": "Which explorer reached the Americas in 1492?", "choices": ["Marco Polo", "Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan"], "answerIndex": 1, "time": 20 },
+    { "id": "history-500", "categoryId": "history", "value": 500, "prompt": "Which event began in 1914 and ended in 1918?", "choices": ["World War I", "World War II", "The Cold War", "The French Revolution"], "answerIndex": 0, "time": 20 },
+    { "id": "science-100", "categoryId": "science", "value": 100, "prompt": "What planet is known as the Red Planet?", "choices": ["Mercury", "Mars", "Venus", "Jupiter"], "answerIndex": 1, "time": 20 },
+    { "id": "science-200", "categoryId": "science", "value": 200, "prompt": "Water freezes at 0 degrees on which temperature scale?", "choices": ["Fahrenheit", "Celsius", "Kelvin", "Rankine"], "answerIndex": 1, "time": 20 },
+    { "id": "science-300", "categoryId": "science", "value": 300, "prompt": "What gas do plants use during photosynthesis?", "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"], "answerIndex": 1, "time": 20 },
+    { "id": "science-400", "categoryId": "science", "value": 400, "prompt": "Which part of the cell contains genetic material?", "choices": ["Mitochondria", "Nucleus", "Cell membrane", "Ribosome"], "answerIndex": 1, "time": 20 },
+    { "id": "science-500", "categoryId": "science", "value": 500, "prompt": "What is the chemical symbol for gold?", "choices": ["Au", "Ag", "Gd", "Go"], "answerIndex": 0, "time": 20 },
+    { "id": "literature-100", "categoryId": "literature", "value": 100, "prompt": "Which novel begins with 'Call me Ishmael'?", "choices": ["Moby Dick", "Great Expectations", "1984", "The Odyssey"], "answerIndex": 0, "time": 20 },
+    { "id": "literature-200", "categoryId": "literature", "value": 200, "prompt": "Who wrote 'Romeo and Juliet'?", "choices": ["William Shakespeare", "Jane Austen", "Mark Twain", "Charles Dickens"], "answerIndex": 0, "time": 20 },
+    { "id": "literature-300", "categoryId": "literature", "value": 300, "prompt": "The term 'dystopia' describes a society that is...", "choices": ["Perfect", "Chaotic", "Terrifying", "Beautiful"], "answerIndex": 2, "time": 20 },
+    { "id": "literature-400", "categoryId": "literature", "value": 400, "prompt": "Which poet wrote 'How do I love thee? Let me count the ways.'?", "choices": ["Emily Dickinson", "Elizabeth Barrett Browning", "Robert Frost", "Sylvia Plath"], "answerIndex": 1, "time": 20 },
+    { "id": "literature-500", "categoryId": "literature", "value": 500, "prompt": "Which book features a ring that must be destroyed in Mount Doom?", "choices": ["Harry Potter", "The Hobbit", "The Lord of the Rings", "The Lion, the Witch and the Wardrobe"], "answerIndex": 2, "time": 20 },
+    { "id": "sports-100", "categoryId": "sports", "value": 100, "prompt": "How many points is a touchdown worth in American football?", "choices": ["3", "6", "7", "1"], "answerIndex": 1, "time": 20 },
+    { "id": "sports-200", "categoryId": "sports", "value": 200, "prompt": "How many players are on a basketball team on the court at once?", "choices": ["5", "6", "7", "9"], "answerIndex": 0, "time": 20 },
+    { "id": "sports-300", "categoryId": "sports", "value": 300, "prompt": "In tennis, what is a score of zero called?", "choices": ["Love", "Zero", "Duck", "Nil"], "answerIndex": 0, "time": 20 },
+    { "id": "sports-400", "categoryId": "sports", "value": 400, "prompt": "What sport uses a puck?", "choices": ["Baseball", "Hockey", "Soccer", "Basketball"], "answerIndex": 1, "time": 20 },
+    { "id": "sports-500", "categoryId": "sports", "value": 500, "prompt": "In which sport do competitors perform routines on a balance beam?", "choices": ["Gymnastics", "Diving", "Figure Skating", "Swimming"], "answerIndex": 0, "time": 20 }
+  ]
+}
